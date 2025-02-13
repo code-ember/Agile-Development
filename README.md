@@ -13,5 +13,5 @@ Developing programs involves iterative and incremental processes. This approach 
 # Incorporating Agile Processes: 
 Embracing Agile processes, specifically the Agile Scrum Methodology, is pivotal in future development work. Working with a team that adheres to Agile values and principles enhances productivity and collaboration.
 
-# Being a Good Team Member: 
+# Valuable Team Member: 
 Effective team building requires a deep understanding of people. Integrity, trust, and loyalty are fundamental traits for a successful team. Delegating responsibilities to the right team members ensures optimal results and fosters a cohesive working environment.
