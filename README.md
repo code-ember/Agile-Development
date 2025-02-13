@@ -1,4 +1,4 @@
-# Agile Development Understanding Users and Building Strong Teams
+# Agile Development: Understanding Users and Building Strong Teams
 Welcome to my CS-250 project. This C++ program is designed to enhance your understanding of user needs, agile development, and effective team collaboration. In this program, we will delve into various key concepts that are essential for successful software development: 
 
 # Interpreting User Needs: 
