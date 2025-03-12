@@ -15,3 +15,5 @@ Embracing Agile processes, specifically the Agile Scrum Methodology, is pivotal 
 
 ### Valuable Team Member: 
 Effective team building requires a deep understanding of people. Integrity, trust, and loyalty are fundamental traits for a successful team. Delegating responsibilities to the right team members ensures optimal results and fosters a cohesive working environment.
+
+## CS-250
